@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Fuel-Checker/static/css/main.073c9b0a.css",
-    "main.js": "/Fuel-Checker/static/js/main.94ed6447.js",
+    "main.js": "/Fuel-Checker/static/js/main.c5657769.js",
     "static/js/787.28cb0dcd.chunk.js": "/Fuel-Checker/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/Fuel-Checker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Fuel-Checker/index.html",
     "main.073c9b0a.css.map": "/Fuel-Checker/static/css/main.073c9b0a.css.map",
-    "main.94ed6447.js.map": "/Fuel-Checker/static/js/main.94ed6447.js.map",
+    "main.c5657769.js.map": "/Fuel-Checker/static/js/main.c5657769.js.map",
     "787.28cb0dcd.chunk.js.map": "/Fuel-Checker/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.94ed6447.js"
+    "static/js/main.c5657769.js"
   ]
 }
